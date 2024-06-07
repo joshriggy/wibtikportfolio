@@ -73,7 +73,6 @@ body {
     text-align: center; 
     opacity: 0.7
 }
-
 .vision {
     background-image: url('pnc.png');
     background-size: contain;
@@ -82,7 +81,6 @@ body {
     text-align: center; 
     opacity: 0.7
 }
-
 .card {
   background-color: white;
   padding: 20px;
